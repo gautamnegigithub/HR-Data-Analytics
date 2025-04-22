@@ -21,7 +21,7 @@ This data was cleaned, transformed, and modeled using Power Query and DAX in Pow
 # Dashboard Structure
 This dashboard was divided into one comprehensive page offering layered insights with filters and slicers for departments.
 
-Key KPIs Displayed:
+# Key KPIs Displayed:
 Total Employees: 63
 
 Attrition Count: 12
@@ -34,13 +34,15 @@ Average Salary: $6.7K
 
 Average Tenure: 7.2 years
 
-Attrition Analysis Highlights:
+# Attrition Analysis Highlights:
+
 By Education:
 Human Resources graduates: 58%
 
 Medical & Technical degrees: Each at 17%
 
 By Age Group:
+
 Highest attrition: 26–35 (8 employees)
 
 Younger & older employees (18–25, 36–45): 2 each
@@ -55,21 +57,24 @@ Male: 5
 Others/Unspecified: 1
 
 By Job Role:
+
 Attrition only observed in Human Resources role (12)
 
 Managerial roles showed zero attrition
 
 Salary-Based Insights:
+
 Most attrition occurred at salaries under 5K
 
 Minimal attrition in higher salary bands
 
 Trend Over Time:
+
 Initial peak in attrition, gradually declined
 
 Useful for identifying retention impact of recent HR policies
 
-Real-World Recommendations:
+# Real-World Recommendations:
 Focus on retention strategies for employees aged 26–35, a high-risk group.
 
 Evaluate job satisfaction and growth paths for HR roles, which face the most attrition.
@@ -78,7 +83,7 @@ Address salary-based dissatisfaction for those earning <5K, possibly via compens
 
 Leverage trend analysis to assess impact of HR initiatives over time.
 
-Key Learnings
+# Key Learnings
 This project was a deep dive into workforce analytics where I honed my skills in Power BI, including:
 
 Data modeling and Power Query transformations
