@@ -37,6 +37,7 @@ Average Tenure: 7.2 years
 # Attrition Analysis Highlights:
 
 By Education:
+
 Human Resources graduates: 58%
 
 Medical & Technical degrees: Each at 17%
@@ -97,11 +98,11 @@ Extracting meaningful narratives from raw HR data
 It enhanced my ability to translate data into business strategy and gave me a new perspective on the value of HR metrics.
 
 Looking for:
+
 Internship / Entry-Level Analyst Roles
 
-Freelance Projects in Power BI / Data Analysis
+Freelance Power BI Projects
 
-Created & Presented by:
-Gautam Negi – Aspiring Data Analyst
-Location: New Delhi, India
-Let’s connect on LinkedIn!
+Let’s connect and grow together!
+
+Created & Presented by: Gautam Negi – Aspiring Data Analyst 📍 Location: India 🔗 Let’s connect on LinkedIn
